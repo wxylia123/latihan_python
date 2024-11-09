@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(3, 154, 248);
+  }
+
+  table,tr, td{
+border:2px black solid ;
+  }
+  
+  .gambar {
+        max-width: 10px; 
+        width: 100%;
+        height: auto;  
+  }
+  
